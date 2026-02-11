@@ -1,0 +1,4 @@
+name = "develzy"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+# No need for custom build command here if set in UI, but good for reference
